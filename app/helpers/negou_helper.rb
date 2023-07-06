@@ -1,0 +1,2 @@
+module NegouHelper
+end
